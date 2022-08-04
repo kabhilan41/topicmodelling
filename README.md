@@ -1,4 +1,4 @@
 # topicmodelling
-Topic modelling in a corpus using a semi-supervised LDA model
+Indexing content of a corpus using a semi-supervised LDA model
 Majority of all data available is unstructured and unlabelled data. Extensive progress has been made in the field of text processing to bring some semblance of order to these data for ease of information retrieval and processing. Topic modelling and topic classification are two such areas of research. While topic modelling has always been less accurate in comparison, topic modelling based models do not require labelled data for training, which is a huge advantage.
 We have designed an API that is capable of annotating unlabelled data in documents, by collectively analysing sets of documents using an unsupervised topic modelling algorithm, LDA(Latent Dirichlet Allocation) and identifying the focal points of interests discussed in the documents.
